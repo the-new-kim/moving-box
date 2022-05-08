@@ -157,7 +157,7 @@ table {
   transform-style: preserve-3d;
   border-radius: 25px;
   box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0px 0px 20px rgba(0, 0, 0, 0.2);
-  background-image: url("http://www.mabro-web.com/2023/images/IMG_7360b_web01.jpg");
+  background-image: url("./IMG_7360b_web01.jpeg");
   background-size: cover;
 }
 .moving-box .logo {
